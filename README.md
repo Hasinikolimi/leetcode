@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hasinikolimi/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Hasinikolimi/leetcode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
