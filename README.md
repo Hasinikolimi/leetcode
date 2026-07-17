@@ -38,8 +38,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Hasinikolimi/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0761-special-binary-string](https://github.com/Hasinikolimi/leetcode/tree/master/0761-special-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Hasinikolimi/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Hasinikolimi/leetcode/tree/master/0761-special-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Hasinikolimi/leetcode/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
