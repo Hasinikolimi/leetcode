@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Hasinikolimi/leetcode/tree/master/0007-reverse-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hasinikolimi/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
