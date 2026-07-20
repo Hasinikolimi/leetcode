@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Hasinikolimi/leetcode/tree/master/1260-shift-2d-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hasinikolimi/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Hasinikolimi/leetcode/tree/master/0761-special-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Hasinikolimi/leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Hasinikolimi/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
